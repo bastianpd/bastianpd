@@ -4,7 +4,7 @@
 
 I'm an engineer and researcher interested in developing intelligent, data-driven solutions by combining photonics, machine learning, and applied engineering.
 
-Currently pursuing a **Master's degree in Engineering Photonics at UTFPR (Federal University of Technology – Paraná), Brazil**, with a research focus on optical sensing, spectroscopy, and machine learning applications.
+Currently pursuing a **Master's degree in Engineering Photonics at UTFPR (Federal University of Technology – Paraná), Brazil**, with a research focus on optical sensing, spectroscopy, and machine learning applications LABLASER.
 
 ### 🔬 Research & Technical Interests
 
@@ -44,8 +44,3 @@ Contributing to technological innovation through the integration of photonics, a
 ---
 
 *Engineering | Research | Data | Innovation*
-
-<!---
-bastianpd/bastianpd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
