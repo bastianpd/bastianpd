@@ -4,7 +4,7 @@
 
 I'm an engineer and researcher interested in developing intelligent, data-driven solutions by combining photonics, machine learning, and applied engineering.
 
-Currently pursuing a **Master's degree in Engineering Photonics at UTFPR (Federal University of Technology – Paraná), Brazil**, with a research focus on optical sensing, spectroscopy, and machine learning applications LABLASER.
+Currently pursuing a **Master's degree in Engineering Photonics at UTFPR (Federal University of Technology – Paraná), Brazil**, with a research focus on optical sensing, spectroscopy, and machine learning applications in [LABLASER](https://lablaser.jlfabris.com/principal.htm).
 
 ### 🔬 Research & Technical Interests
 
